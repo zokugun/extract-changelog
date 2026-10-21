@@ -89,9 +89,6 @@
 		},
 		"release-it": {
 			"undici": "7.29.0"
-		},
-		"vite": {
-			"nanoid": "3.3.18"
 		}
 	},
 	"allowScripts": {
